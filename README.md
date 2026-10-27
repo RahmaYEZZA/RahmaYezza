@@ -2,7 +2,7 @@
 
 I'm a **research engineer** at Universidad Rey Juan Carlos in Madrid, working on the data side of an EU research project. Day to day, that means building pipelines that collect data from several partners (Python, Airflow, Docker), writing the checks that catch errors before they reach the analysis, and making the data usable for the whole consortium.
 
-Before that I studied mathematics in Tunisia and did an MSc in Data Science & Machine Learning in Spain. I'm now looking to bring this experience to a company, in a data analyst or data engineer role.
+Before that I studied mathematics in Tunisia and did an MSc in Data Science & Machine Learning in Spain. 
 
 I speak Arabic, French, English and Spanish.
 
